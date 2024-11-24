@@ -12,4 +12,4 @@ const User = {
 }
 
 const tea = Object.create(User)
-console.log(tea.email);
+console.log(tea.email); 
